@@ -1,2 +1,2 @@
 # CA2_Aayush
-Database &amp; AnalyticS Programming Project
+Database &amp; Analytics Programming Project
